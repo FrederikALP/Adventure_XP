@@ -1,3 +1,4 @@
+/*
 package dk.kea.adventureproject.services;
 
 import dk.kea.adventureproject.models.Booking;
@@ -25,3 +26,4 @@ class BookingServiceTest {
         bookingService.updateBooking(booking);
     }
 }
+*/
