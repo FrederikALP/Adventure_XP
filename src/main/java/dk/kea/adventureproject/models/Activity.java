@@ -2,7 +2,7 @@ package dk.kea.adventureproject.models;
 
 
 /**
- * @author Christian og Joachim
+ * @author Christian og Joachims
  */
 public class Activity {
     private int activityID;
